@@ -8,6 +8,7 @@ then it calculates the sum of calories of the meals.
 Uses:
 
 - [x] DOM
+- [x] VanillJS
 - [x] Local Storage
 
 Demo link[Traclories]
