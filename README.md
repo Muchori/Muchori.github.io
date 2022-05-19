@@ -9,7 +9,7 @@ then it calculates the sum of calories of the meals.
 Uses:
 
 - [x] DOM
-- [x] VanillJS
+- [x] VanillaJS
 - [x] Local Storage
 
 
